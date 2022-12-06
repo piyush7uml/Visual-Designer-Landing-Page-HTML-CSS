@@ -2,7 +2,7 @@
 
 ## **Overview of the Project** 
 
-![Alt Live-Screenshot](/finale1.png)
+![Alt Live-Screenshot](finale1.png)
 
 
 - Project is Build With Pure CSS using Flexbox and Grid
